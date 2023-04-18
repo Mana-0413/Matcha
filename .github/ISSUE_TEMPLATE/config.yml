@@ -3,4 +3,4 @@ contact_links:
   - name: 課題管理_1週間用
     about: made by config.yml
     # edit {username} and {repo} for your environment
-    url: https://github.com/poyazi/manage_assignments/issues/new?template=1.md&title=4/-4/に出た課題&assignees=Mana-0413
+    url: https://github.com/Mana-0413/Matcha/issues/new?template=1.md&title=4/-4/に出た課題&assignees=Mana-0413 
